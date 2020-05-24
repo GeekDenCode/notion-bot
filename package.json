@@ -1,0 +1,19 @@
+{
+  "name": "notion-tg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "geekden",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-cookiejar-support": "^1.0.0",
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "socks5-https-client": "^1.2.1",
+    "tough-cookie": "^4.0.0"
+  }
+}
